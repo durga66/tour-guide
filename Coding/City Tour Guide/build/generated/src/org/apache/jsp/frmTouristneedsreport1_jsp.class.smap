@@ -1,0 +1,25 @@
+SMAP
+frmTouristneedsreport1_jsp.java
+JSP
+*S JSP
+*F
++ 0 frmTouristneedsreport1.jsp
+frmTouristneedsreport1.jsp
++ 1 uheader.jsp
+uheader.jsp
+*L
+1,3:56
+1#1,16:59
+3#0:74
+5,5:12
+9,6:75
+14,9:81
+23:90,3
+24,37:93
+60,3:130
+62,2:133
+64,17:135,3
+81,2:186
+83,2:189
+84,6:191
+*E
